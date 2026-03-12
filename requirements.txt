@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+fpdf2
+plotly
+Pillow
+st-gsheets-connection
+gspread
